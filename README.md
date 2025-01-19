@@ -2,4 +2,4 @@
 
 <br>
 <br>
-<h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">Dev</h2>
+<h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</h2>
