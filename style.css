@@ -79,3 +79,14 @@ input{
     margin-top: 5px;
 
 }
+
+
+@media (max-width: 414px) {
+.lupa{
+    height: 20px;
+    width: 30%;
+
+}
+
+
+}
